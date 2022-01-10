@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Geegtor
 - 👀 I’m interested in JavaScript and Frontend frameworks. 
 - 🌱 I’m currently learning React and Angular for getting 1-st job.
-- 💞️ I’m looking to collaborate with @epam
 - 📫 I'm on Telegram @vanilavini
 
 <!---
