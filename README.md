@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Geegtor
 - 👀 I’m interested in JavaScript and Frontend frameworks. 
-- 🌱 I’m currently learning React and Angular for getting 1-st job.
+- 🌱 I got ReactJS as oneLove && NodeJS assecondLove.
+- 🔥 I'm keen on Vue && Next frameworks. 
 - 📫 I'm on Telegram @vanilavini
 
 <!---
